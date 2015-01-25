@@ -48,3 +48,9 @@ C:\Users\wk222as\Desktop\C# Iterationer\loginuser.cs\obj\Debug\loginuser.cs.pdb
 C:\Users\wk222as\Desktop\C# Iterationer\loginuser.cs\bin\Debug\loginuser.cs.exe
 C:\Users\wk222as\Desktop\C# Iterationer\loginuser.cs\bin\Debug\loginuser.cs.pdb
 C:\Users\wk222as\Desktop\C# Iterationer\loginuser.cs\obj\Debug\loginuser.cs.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Dokument\IM-Projekt\C# Iterationer\loginuser.cs\bin\Debug\loginuser.cs.exe.config
+\\vmware-host\Shared Folders\Dokument\IM-Projekt\C# Iterationer\loginuser.cs\obj\Debug\loginuser.cs.exe
+\\vmware-host\Shared Folders\Dokument\IM-Projekt\C# Iterationer\loginuser.cs\obj\Debug\loginuser.cs.pdb
+\\vmware-host\Shared Folders\Dokument\IM-Projekt\C# Iterationer\loginuser.cs\bin\Debug\loginuser.cs.exe
+\\vmware-host\Shared Folders\Dokument\IM-Projekt\C# Iterationer\loginuser.cs\bin\Debug\loginuser.cs.pdb
+\\vmware-host\Shared Folders\Dokument\IM-Projekt\C# Iterationer\loginuser.cs\obj\Debug\loginuser.cs.csprojResolveAssemblyReference.cache
